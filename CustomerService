@@ -1,3 +1,4 @@
+a: hello world
 eureka:
   client:
     serviceUrl:
@@ -19,4 +20,4 @@ spring:
 sleuth:
   sampler:
     probability: 1
-a: hello world!
+
